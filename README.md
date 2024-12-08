@@ -15,7 +15,7 @@ Welcome to the Notes App, a Flutter-based application that allows users to effor
 
 | **Home Screen** | **Add a Note** | **Manage Notes** |
 |---|---|---|
-| ![Home Screen](assets/screenshots/home_screen.jpg) | ![Add Note](assets\screenshots\add_note.jpg) | ![Manage Notes](assets/screenshots/manage_notes.jpg) |
+| ![Home Screen](assets/screenshots/home_screen.jpg) | ![Add Note](assets/screenshots/add_note.jpg) | ![Manage Notes](assets/screenshots/manage_notes.jpg) |
 
 ## Installation 🛠️
 
